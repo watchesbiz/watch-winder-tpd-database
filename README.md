@@ -111,6 +111,7 @@ flux, not the movement.
 
 - [TPD settings database](https://www.aurawinder.com/watch-winder-tpd-settings-database/) — the searchable version of this data.
 - [2026 watch winder price report](https://www.aurawinder.com/watch-winder-price-report-2026/) — pricing across 355 winder models, normalised to cost per watch slot.
+- [**Watch Care & Storage Reference**](https://github.com/watchesbiz/watch) — the companion repository. This one covers how a movement should be *wound*; that one covers how a watch should be *stored*: humidity and temperature ranges, magnetism diagnosis, service thresholds measured by amplitude, water resistance once gaskets age, and a copyable maintenance log.
 
 ## 📚 Background reading
 
