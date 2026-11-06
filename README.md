@@ -1,5 +1,3 @@
-<meta name="google-site-verification" content="_pSLGbT8AzVaywM3XrNyN4d4WY3O7hV6GWlpLTUM0Zs" />
-
 # 🔬 Luxury Watch TPD Database & Anti-Magnetic Caliber Manual (2026)
 
 [![Status: Active](https://img.shields.io/badge/Database-Active-success.svg)](#)
@@ -115,3 +113,16 @@ Audemars Piguet (Cal. 4302) — TPD: 800 | Direction: Both | Hairspring: Ferrous
 [TPD settings database](https://www.aurawinder.com/watch-winder-tpd-settings-database/)
 maintained by Aurawinder. For pricing context across 355 winder models, see the
 [2026 watch winder price report](https://www.aurawinder.com/watch-winder-price-report-2026/).
+
+## 📚 Background reading
+
+If you arrived here looking for the "why" rather than the numbers, these explain the mechanics behind the table above:
+
+- [What is an automatic watch winder](https://www.aurawinder.com/guide/what-is-an-automatic-watch-winder/) — how a rotor winds a mainspring, and why "more turns" is not "better".
+- [TPD explained: matching turns per day to your movement](https://www.aurawinder.com/guide/watch-winder-tpd-explained/) — the reasoning behind the per-caliber values in this repo, including what happens when a movement is over-wound.
+- [Are watch winders safe? Anti-magnetisation and motor isolation](https://www.aurawinder.com/guide/are-watch-winders-safe/) — the engineering notes behind the anti-magnetic section above.
+- [Full guide index](https://www.aurawinder.com/guide/) — 12 guides on capacity, rotation direction, quiet motors, maintenance and materials.
+
+## 🤝 Contributing
+
+Corrections from watchmakers are welcome. If a caliber's TPD or winding direction is wrong, open an issue with the movement number and, ideally, the manufacturer's spec sheet or a timegrapher reading.
